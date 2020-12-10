@@ -11,5 +11,11 @@
 			"name":"@jhampton"
 		}
 	],
-	"type": "wordpress-plugin"
+	"type": "wordpress-plugin",
+	"autoload": {
+    "files": [
+        "plugin.amazons3-stream.php",
+        "s3.php"
+    ]
+}
 }
