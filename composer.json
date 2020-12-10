@@ -1,0 +1,15 @@
+{
+	"name": "glauberkyves/wordpress-amazon-s3-plugin",
+	"description": "WordPress plugin to store uploads on S3",
+	"homepage": "https://github.com/glauberkyves/wordpress-amazon-s3-plugin",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name":"@jhampton"
+		}
+	],
+	"type": "wordpress-plugin"
+}
